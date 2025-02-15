@@ -51,12 +51,8 @@ app.use(
 
 app.post('/joke', (req, res) => {
   try {
-    let entry = req.body;
-    console.log(jokes.length)
-    jokes.push(entry);
-    console.log(jokes[jokes.length-1])
-    console.log(jokes.length)
-    res.json({});
+    jokes.push(req.body);
+    res.status(201).json({});
   } catch (error) {
     console.error(error);
     res.status(500).send(error);
@@ -78,7 +74,7 @@ app.use('/**', (req, res, next) => {
 
 app.get('/joke', (req, res, next) => {
   try {
-    const rand = Math.floor(Math.random() * (jokes.length)) - 1;
+    const rand = Math.floor(Math.random() * (jokes.length - 1));
     let joke: Joke = jokes[rand];
     if (joke == undefined) throw 'Out of Bounds';
     res.json(joke);
