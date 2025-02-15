@@ -3,14 +3,19 @@
     <mat-card-title>Add One Of Your Own!!!</mat-card-title>
   </mat-card-header>
   <mat-card-content>
-    <form class="example-form">
+    <form class="add-joke-form">
       <mat-form-field class="example-full-width">
-        <mat-label>Favorite food</mat-label>
-        <input matInput placeholder="Ex. Pizza" value="Sushi" />
+        <mat-label>Name</mat-label>
+        <input matInput placeholder="John Smith" value="author" />
       </mat-form-field>
 
       <mat-form-field class="example-full-width">
-        <mat-label>Leave a comment</mat-label>
+        <mat-label>Joke Question</mat-label>
+        <input matInput placeholder="Knock Knock" value="title" />
+      </mat-form-field>
+
+        <mat-form-field class="example-full-width">
+        <mat-label>Joke Answer</mat-label>
         <textarea matInput placeholder="Ex. It makes me feel..."></textarea>
       </mat-form-field>
     </form>

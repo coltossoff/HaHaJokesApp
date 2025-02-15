@@ -39,6 +39,8 @@ const angularApp = new AngularNodeAppEngine();
 /**
  * Serve static files from /browser
  */
+
+app.use(express.json());
 app.use(
   express.static(browserDistFolder, {
     maxAge: '1y',
@@ -46,6 +48,20 @@ app.use(
     redirect: false,
   }),
 );
+
+app.post('/joke', (req, res) => {
+  try {
+    let entry = req.body;
+    console.log(jokes.length)
+    jokes.push(entry);
+    console.log(jokes[jokes.length-1])
+    console.log(jokes.length)
+    res.json({});
+  } catch (error) {
+    console.error(error);
+    res.status(500).send(error);
+  }
+});
 
 /**
  * Handle all other requests by rendering the Angular application.
@@ -62,7 +78,7 @@ app.use('/**', (req, res, next) => {
 
 app.get('/joke', (req, res, next) => {
   try {
-    const rand = Math.floor(Math.random() * (jokes.length));
+    const rand = Math.floor(Math.random() * (jokes.length)) - 1;
     let joke: Joke = jokes[rand];
     if (joke == undefined) throw 'Out of Bounds';
     res.json(joke);
@@ -72,16 +88,6 @@ app.get('/joke', (req, res, next) => {
   }
 });
 
-app.post('/joke', (req, res) => {
-  let entry: Joke = req.body;
-  try {
-    jokes.push(entry)
-    res.json(entry);
-  } catch (error) {
-    console.error(error);
-    res.status(500).send(error);
-  }
-});
 /**
  * Start the server if this module is the main entry point.
  * The server listens on the port defined by the `PORT` environment variable, or defaults to 4000.
