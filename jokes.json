@@ -3,370 +3,102 @@
 		"jokeId": "1",
 	    "title": "First joke",
 	    "content": "Question: Why do bicycles fall over? Answer: Because they are two-tired",
-	    "author": "unknown",
-	    "isSafeForWork": true,
-	    "isRhetorical": false,
-	    "showAnswer": false,
-	    "isActive": false, 
-	    "backdrops": [
-		      "https://image.tmdb.org/t/p/original/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
-		      "https://image.tmdb.org/t/p/original/faXT8V80JRhnArTAeYXz0Eutpv9.jpg",
-		      "https://image.tmdb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg",
-		      "https://image.tmdb.org/t/p/original/tGwO4xcBjhXC0p5qlkw37TrH6S6.jpg",
-		      "https://image.tmdb.org/t/p/original/cP8YNG3XUeBmO8Jk7Skzq3vwHy1.jpg",
-		      "https://image.tmdb.org/t/p/original/qLE8yuieTDN93WNJRmFSAEJChOg.jpg",
-		      "https://image.tmdb.org/t/p/original/vNuHqmOJRQXY0PBd887DklSDlBP.jpg",
-		      "https://image.tmdb.org/t/p/original/uUCc62M0I3lpZy0SiydbBmUIpNi.jpg",
-		      "https://image.tmdb.org/t/p/original/2wPJIFrBhzzAP8oHDOlShMkERH6.jpg",
-		      "https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"
-    	]
+	    "author": "unknown"
   	},
   	{
   		"jokeId": "2",
   		"title": "Second joke",
 	    "content": "Question: How do you make an egg roll?  Answer: You Push it",
-	    "author": "maybe unknown",
-	    "isSafeForWork": true,
-	    "isRhetorical": false,
-	    "showAnswer": false,
-	    "isActive": false,
-	    "backdrops": [
-		      "https://image.tmdb.org/t/p/original/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
-		      "https://image.tmdb.org/t/p/original/faXT8V80JRhnArTAeYXz0Eutpv9.jpg",
-		      "https://image.tmdb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg",
-		      "https://image.tmdb.org/t/p/original/tGwO4xcBjhXC0p5qlkw37TrH6S6.jpg",
-		      "https://image.tmdb.org/t/p/original/cP8YNG3XUeBmO8Jk7Skzq3vwHy1.jpg",
-		      "https://image.tmdb.org/t/p/original/qLE8yuieTDN93WNJRmFSAEJChOg.jpg",
-		      "https://image.tmdb.org/t/p/original/vNuHqmOJRQXY0PBd887DklSDlBP.jpg",
-		      "https://image.tmdb.org/t/p/original/uUCc62M0I3lpZy0SiydbBmUIpNi.jpg",
-		      "https://image.tmdb.org/t/p/original/2wPJIFrBhzzAP8oHDOlShMkERH6.jpg",
-		      "https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"
-    	]
+	    "author": "maybe unknown"
   	},
   	{
   		"jokeId": "3",
   		"title": "Third joke",
 	    "content": "Question: Why did Beethoven get rid of all of his chickens?  Answer: All they ever said was,'Bach', 'Bach', 'Bach'",
-	    "author": "unknown 2 with id 3",
-	    "isSafeForWork": true,
-	    "isRhetorical": false,
-	    "showAnswer": false,
-	    "isActive": false,
-	    "backdrops": [
-		      "https://image.tmdb.org/t/p/original/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
-		      "https://image.tmdb.org/t/p/original/faXT8V80JRhnArTAeYXz0Eutpv9.jpg",
-		      "https://image.tmdb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg",
-		      "https://image.tmdb.org/t/p/original/tGwO4xcBjhXC0p5qlkw37TrH6S6.jpg",
-		      "https://image.tmdb.org/t/p/original/cP8YNG3XUeBmO8Jk7Skzq3vwHy1.jpg",
-		      "https://image.tmdb.org/t/p/original/qLE8yuieTDN93WNJRmFSAEJChOg.jpg",
-		      "https://image.tmdb.org/t/p/original/vNuHqmOJRQXY0PBd887DklSDlBP.jpg",
-		      "https://image.tmdb.org/t/p/original/uUCc62M0I3lpZy0SiydbBmUIpNi.jpg",
-		      "https://image.tmdb.org/t/p/original/2wPJIFrBhzzAP8oHDOlShMkERH6.jpg",
-		      "https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"
-    	]
+	    "author": "unknown 2 with id 3"
   	},
   	{
   		"jokeId": "4",
 		"title": "Fourth joke",
 	    "content": "Question: What do the Eiffel Tower and wood ticks have in common?  Answer: They are both Parisites",
-	    "author": "unknown 4",
-	    "isSafeForWork": true,
-	    "isRhetorical": false,
-	    "showAnswer": false,
-	    "isActive": false,
-	    "backdrops": [
-		      "https://image.tmdb.org/t/p/original/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
-		      "https://image.tmdb.org/t/p/original/faXT8V80JRhnArTAeYXz0Eutpv9.jpg",
-		      "https://image.tmdb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg",
-		      "https://image.tmdb.org/t/p/original/tGwO4xcBjhXC0p5qlkw37TrH6S6.jpg",
-		      "https://image.tmdb.org/t/p/original/cP8YNG3XUeBmO8Jk7Skzq3vwHy1.jpg",
-		      "https://image.tmdb.org/t/p/original/qLE8yuieTDN93WNJRmFSAEJChOg.jpg",
-		      "https://image.tmdb.org/t/p/original/vNuHqmOJRQXY0PBd887DklSDlBP.jpg",
-		      "https://image.tmdb.org/t/p/original/uUCc62M0I3lpZy0SiydbBmUIpNi.jpg",
-		      "https://image.tmdb.org/t/p/original/2wPJIFrBhzzAP8oHDOlShMkERH6.jpg",
-		      "https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"
-    	]
+	    "author": "unknown 4"
   	},
   	{
   		"jokeId": "5",
 		"title": "Fifth joke",
 	    "content": "Question: Why did the man go to the yogurt musem? Answer: To get a little culture",
-	    "author": "unknown 4",
-	    "isSafeForWork": true,
-	    "isRhetorical": false,
-	    "showAnswer": false,
-	    "isActive": false,
-	    "backdrops": [
-		      "https://image.tmdb.org/t/p/original/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
-		      "https://image.tmdb.org/t/p/original/faXT8V80JRhnArTAeYXz0Eutpv9.jpg",
-		      "https://image.tmdb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg",
-		      "https://image.tmdb.org/t/p/original/tGwO4xcBjhXC0p5qlkw37TrH6S6.jpg",
-		      "https://image.tmdb.org/t/p/original/cP8YNG3XUeBmO8Jk7Skzq3vwHy1.jpg",
-		      "https://image.tmdb.org/t/p/original/qLE8yuieTDN93WNJRmFSAEJChOg.jpg",
-		      "https://image.tmdb.org/t/p/original/vNuHqmOJRQXY0PBd887DklSDlBP.jpg",
-		      "https://image.tmdb.org/t/p/original/uUCc62M0I3lpZy0SiydbBmUIpNi.jpg",
-		      "https://image.tmdb.org/t/p/original/2wPJIFrBhzzAP8oHDOlShMkERH6.jpg",
-		      "https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"
-    	]
+	    "author": "unknown 4"
   	},
   	{
   		"jokeId": "6",
 		"title": "Sixth joke",
 	    "content": "Question: Why don't people trust stairs? Answer: Because they're always up to something",
-	    "author": "unknown 4",
-	    "isSafeForWork": true,
-	    "isRhetorical": false,
-	    "showAnswer": false,
-	    "isActive": false,
-	    "backdrops": [
-		      "https://image.tmdb.org/t/p/original/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
-		      "https://image.tmdb.org/t/p/original/faXT8V80JRhnArTAeYXz0Eutpv9.jpg",
-		      "https://image.tmdb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg",
-		      "https://image.tmdb.org/t/p/original/tGwO4xcBjhXC0p5qlkw37TrH6S6.jpg",
-		      "https://image.tmdb.org/t/p/original/cP8YNG3XUeBmO8Jk7Skzq3vwHy1.jpg",
-		      "https://image.tmdb.org/t/p/original/qLE8yuieTDN93WNJRmFSAEJChOg.jpg",
-		      "https://image.tmdb.org/t/p/original/vNuHqmOJRQXY0PBd887DklSDlBP.jpg",
-		      "https://image.tmdb.org/t/p/original/uUCc62M0I3lpZy0SiydbBmUIpNi.jpg",
-		      "https://image.tmdb.org/t/p/original/2wPJIFrBhzzAP8oHDOlShMkERH6.jpg",
-		      "https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"
-    	]
+	    "author": "unknown 4"
   	},
   	{
   		"jokeId": "7",
 		"title": "Seventh joke",
 	    "content": "Question: What do dentists call their X-rays? Answer: Tooth pics",
-	    "author": "unknown 4",
-	    "isSafeForWork": true,
-	    "isRhetorical": false,
-	    "showAnswer": false,
-	    "isActive": false,
-	    "backdrops": [
-		      "https://image.tmdb.org/t/p/original/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
-		      "https://image.tmdb.org/t/p/original/faXT8V80JRhnArTAeYXz0Eutpv9.jpg",
-		      "https://image.tmdb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg",
-		      "https://image.tmdb.org/t/p/original/tGwO4xcBjhXC0p5qlkw37TrH6S6.jpg",
-		      "https://image.tmdb.org/t/p/original/cP8YNG3XUeBmO8Jk7Skzq3vwHy1.jpg",
-		      "https://image.tmdb.org/t/p/original/qLE8yuieTDN93WNJRmFSAEJChOg.jpg",
-		      "https://image.tmdb.org/t/p/original/vNuHqmOJRQXY0PBd887DklSDlBP.jpg",
-		      "https://image.tmdb.org/t/p/original/uUCc62M0I3lpZy0SiydbBmUIpNi.jpg",
-		      "https://image.tmdb.org/t/p/original/2wPJIFrBhzzAP8oHDOlShMkERH6.jpg",
-		      "https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"
-    	]
+	    "author": "unknown 4"
   	},
   	{
   		"jokeId": "8",
 		"title": "Eigth joke",
 	    "content": "Question: Why are plants so skinny? Answer: Because they eat lite",
-	    "author": "unknown 4",
-	    "isSafeForWork": true,
-	    "isRhetorical": false,
-	    "showAnswer": false,
-	    "isActive": false,
-	    "backdrops": [
-		      "https://image.tmdb.org/t/p/original/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
-		      "https://image.tmdb.org/t/p/original/faXT8V80JRhnArTAeYXz0Eutpv9.jpg",
-		      "https://image.tmdb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg",
-		      "https://image.tmdb.org/t/p/original/tGwO4xcBjhXC0p5qlkw37TrH6S6.jpg",
-		      "https://image.tmdb.org/t/p/original/cP8YNG3XUeBmO8Jk7Skzq3vwHy1.jpg",
-		      "https://image.tmdb.org/t/p/original/qLE8yuieTDN93WNJRmFSAEJChOg.jpg",
-		      "https://image.tmdb.org/t/p/original/vNuHqmOJRQXY0PBd887DklSDlBP.jpg",
-		      "https://image.tmdb.org/t/p/original/uUCc62M0I3lpZy0SiydbBmUIpNi.jpg",
-		      "https://image.tmdb.org/t/p/original/2wPJIFrBhzzAP8oHDOlShMkERH6.jpg",
-		      "https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"
-    	]
+	    "author": "unknown 4"
   	},
   	{
   		"jokeId": "9",
 		"title": "Ninth joke",
 	    "content": "Question: Why did the bat miss the school bus? Answer: It hung around too long",
-	    "author": "unknown 4",
-	    "isSafeForWork": true,
-	    "isRhetorical": false,
-	    "showAnswer": false,
-	    "isActive": false,
-	    "backdrops": [
-		      "https://image.tmdb.org/t/p/original/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
-		      "https://image.tmdb.org/t/p/original/faXT8V80JRhnArTAeYXz0Eutpv9.jpg",
-		      "https://image.tmdb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg",
-		      "https://image.tmdb.org/t/p/original/tGwO4xcBjhXC0p5qlkw37TrH6S6.jpg",
-		      "https://image.tmdb.org/t/p/original/cP8YNG3XUeBmO8Jk7Skzq3vwHy1.jpg",
-		      "https://image.tmdb.org/t/p/original/qLE8yuieTDN93WNJRmFSAEJChOg.jpg",
-		      "https://image.tmdb.org/t/p/original/vNuHqmOJRQXY0PBd887DklSDlBP.jpg",
-		      "https://image.tmdb.org/t/p/original/uUCc62M0I3lpZy0SiydbBmUIpNi.jpg",
-		      "https://image.tmdb.org/t/p/original/2wPJIFrBhzzAP8oHDOlShMkERH6.jpg",
-		      "https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"
-    	]
+	    "author": "unknown 4"
   	},
   	{
   		"jokeId": "10",
 		"title": "Tenth joke",
 	    "content": "Question: Why did the farmer bury all his money? Answer: To make the soil rich",
-	    "author": "unknown 4",
-	    "isSafeForWork": true,
-	    "isRhetorical": false,
-	    "showAnswer": false,
-	    "isActive": false,
-	    "backdrops": [
-		      "https://image.tmdb.org/t/p/original/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
-		      "https://image.tmdb.org/t/p/original/faXT8V80JRhnArTAeYXz0Eutpv9.jpg",
-		      "https://image.tmdb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg",
-		      "https://image.tmdb.org/t/p/original/tGwO4xcBjhXC0p5qlkw37TrH6S6.jpg",
-		      "https://image.tmdb.org/t/p/original/cP8YNG3XUeBmO8Jk7Skzq3vwHy1.jpg",
-		      "https://image.tmdb.org/t/p/original/qLE8yuieTDN93WNJRmFSAEJChOg.jpg",
-		      "https://image.tmdb.org/t/p/original/vNuHqmOJRQXY0PBd887DklSDlBP.jpg",
-		      "https://image.tmdb.org/t/p/original/uUCc62M0I3lpZy0SiydbBmUIpNi.jpg",
-		      "https://image.tmdb.org/t/p/original/2wPJIFrBhzzAP8oHDOlShMkERH6.jpg",
-		      "https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"
-    	]
+	    "author": "unknown 4"
   	},
   	{
   		"jokeId": "11",
 		"title": "11th joke",
 	    "content": "Question: Where can you find a cow with no legs? Answer: Right where you left it",
-	    "author": "unknown 11",
-	    "isSafeForWork": true,
-	    "isRhetorical": false,
-	    "showAnswer": false,
-	    "isActive": false,
-	    "backdrops": [
-		      "https://image.tmdb.org/t/p/original/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
-		      "https://image.tmdb.org/t/p/original/faXT8V80JRhnArTAeYXz0Eutpv9.jpg",
-		      "https://image.tmdb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg",
-		      "https://image.tmdb.org/t/p/original/tGwO4xcBjhXC0p5qlkw37TrH6S6.jpg",
-		      "https://image.tmdb.org/t/p/original/cP8YNG3XUeBmO8Jk7Skzq3vwHy1.jpg",
-		      "https://image.tmdb.org/t/p/original/qLE8yuieTDN93WNJRmFSAEJChOg.jpg",
-		      "https://image.tmdb.org/t/p/original/vNuHqmOJRQXY0PBd887DklSDlBP.jpg",
-		      "https://image.tmdb.org/t/p/original/uUCc62M0I3lpZy0SiydbBmUIpNi.jpg",
-		      "https://image.tmdb.org/t/p/original/2wPJIFrBhzzAP8oHDOlShMkERH6.jpg",
-		      "https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"
-    	]
+	    "author": "unknown 11"
   	},
   	{
   		"jokeId": "12",
 		"title": "11th joke",
 	    "content": "Question: Why don't oysters give to charity? Answer: Because they are shellfish",
-	    "author": "unknown 11",
-	    "isSafeForWork": true,
-	    "isRhetorical": false,
-	    "showAnswer": false,
-	    "isActive": false,
-	    "backdrops": [
-		      "https://image.tmdb.org/t/p/original/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
-		      "https://image.tmdb.org/t/p/original/faXT8V80JRhnArTAeYXz0Eutpv9.jpg",
-		      "https://image.tmdb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg",
-		      "https://image.tmdb.org/t/p/original/tGwO4xcBjhXC0p5qlkw37TrH6S6.jpg",
-		      "https://image.tmdb.org/t/p/original/cP8YNG3XUeBmO8Jk7Skzq3vwHy1.jpg",
-		      "https://image.tmdb.org/t/p/original/qLE8yuieTDN93WNJRmFSAEJChOg.jpg",
-		      "https://image.tmdb.org/t/p/original/vNuHqmOJRQXY0PBd887DklSDlBP.jpg",
-		      "https://image.tmdb.org/t/p/original/uUCc62M0I3lpZy0SiydbBmUIpNi.jpg",
-		      "https://image.tmdb.org/t/p/original/2wPJIFrBhzzAP8oHDOlShMkERH6.jpg",
-		      "https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"
-    	]
+	    "author": "unknown 11"
   	},
   	{
   		"jokeId": "13",
 		"title": "Rocky joke",
 	    "content": "Question: Why do cows where bells? Answer: Because their horns don't work",
-	    "author": "unknown 11",
-	    "isSafeForWork": true,
-	    "isRhetorical": false,
-	    "showAnswer": false,
-	    "isActive": false,
-	    "backdrops": [
-		      "https://image.tmdb.org/t/p/original/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
-		      "https://image.tmdb.org/t/p/original/faXT8V80JRhnArTAeYXz0Eutpv9.jpg",
-		      "https://image.tmdb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg",
-		      "https://image.tmdb.org/t/p/original/tGwO4xcBjhXC0p5qlkw37TrH6S6.jpg",
-		      "https://image.tmdb.org/t/p/original/cP8YNG3XUeBmO8Jk7Skzq3vwHy1.jpg",
-		      "https://image.tmdb.org/t/p/original/qLE8yuieTDN93WNJRmFSAEJChOg.jpg",
-		      "https://image.tmdb.org/t/p/original/vNuHqmOJRQXY0PBd887DklSDlBP.jpg",
-		      "https://image.tmdb.org/t/p/original/uUCc62M0I3lpZy0SiydbBmUIpNi.jpg",
-		      "https://image.tmdb.org/t/p/original/2wPJIFrBhzzAP8oHDOlShMkERH6.jpg",
-		      "https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"
-    	]
+	    "author": "unknown 11"
   	},
   	{
   		"jokeId": "14",
 		"title": "Mitch Hedberg Escalator",
 	    "content": "I like an escalator man because an escalator can never break, it can only become stairs. There would never be an escalator temporarily out of order sign only an escalator temporarily stairs, sorry for the convenience",
-	    "author": "Mitch Hedberg",
-	    "isSafeForWork": true,
-	    "isRhetorical": true,
-	    "isActive": false,
-	    "backdrops": [
-		      "https://image.tmdb.org/t/p/original/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
-		      "https://image.tmdb.org/t/p/original/faXT8V80JRhnArTAeYXz0Eutpv9.jpg",
-		      "https://image.tmdb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg",
-		      "https://image.tmdb.org/t/p/original/tGwO4xcBjhXC0p5qlkw37TrH6S6.jpg",
-		      "https://image.tmdb.org/t/p/original/cP8YNG3XUeBmO8Jk7Skzq3vwHy1.jpg",
-		      "https://image.tmdb.org/t/p/original/qLE8yuieTDN93WNJRmFSAEJChOg.jpg",
-		      "https://image.tmdb.org/t/p/original/vNuHqmOJRQXY0PBd887DklSDlBP.jpg",
-		      "https://image.tmdb.org/t/p/original/uUCc62M0I3lpZy0SiydbBmUIpNi.jpg",
-		      "https://image.tmdb.org/t/p/original/2wPJIFrBhzzAP8oHDOlShMkERH6.jpg",
-		      "https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"
-    	]
+	    "author": "Mitch Hedberg"
   	},
   	{
   		"jokeId": "15",
   		"title": "Mitch Hedberg Club Sandwiches",
   		"content": "I order the club sandwich all the time, but I'm not even a member, man. I don't know how I get away with it. How'd it start anyway? I like my sandwiches with three pieces of bread. So do I! Well let's form a club then. Alright, but we need more stipulations. Yes we do; instead of cutting the sandwich once, let's cut it again. Yes, four triangles, and we will position them into a circle. In the middle we will dump chips. Or potato salad. Okay. I got a question for ya, how do you feel about frilly toothpicks? I'm for 'em! Well this club is formed; spread the word on menus nationwide.",
-  		"author": "Mitch Hedberg",
-	    "isSafeForWork": true,
-	    "isRhetorical": true,
-	    "isActive": false,
-	    "backdrops": [
-		      "https://image.tmdb.org/t/p/original/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
-		      "https://image.tmdb.org/t/p/original/faXT8V80JRhnArTAeYXz0Eutpv9.jpg",
-		      "https://image.tmdb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg",
-		      "https://image.tmdb.org/t/p/original/tGwO4xcBjhXC0p5qlkw37TrH6S6.jpg",
-		      "https://image.tmdb.org/t/p/original/cP8YNG3XUeBmO8Jk7Skzq3vwHy1.jpg",
-		      "https://image.tmdb.org/t/p/original/qLE8yuieTDN93WNJRmFSAEJChOg.jpg",
-		      "https://image.tmdb.org/t/p/original/vNuHqmOJRQXY0PBd887DklSDlBP.jpg",
-		      "https://image.tmdb.org/t/p/original/uUCc62M0I3lpZy0SiydbBmUIpNi.jpg",
-		      "https://image.tmdb.org/t/p/original/2wPJIFrBhzzAP8oHDOlShMkERH6.jpg",
-		      "https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"
-    	]
+  		"author": "Mitch Hedberg"
   	},
   	{
   		"jokeId": "16",
   		"title": "Mitch Hedberg Golf",
   		"content": "I do play golf, I suck at golf, I never got a hole in one, but I did hit a guy, and that's way more satisfying",
-  		"author": "Mitch Hedberg",
-	    "isSafeForWork": true,
-	    "isRhetorical": true,
-	    "isActive": false,
-	    "backdrops": [
-		      "https://image.tmdb.org/t/p/original/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
-		      "https://image.tmdb.org/t/p/original/faXT8V80JRhnArTAeYXz0Eutpv9.jpg",
-		      "https://image.tmdb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg",
-		      "https://image.tmdb.org/t/p/original/tGwO4xcBjhXC0p5qlkw37TrH6S6.jpg",
-		      "https://image.tmdb.org/t/p/original/cP8YNG3XUeBmO8Jk7Skzq3vwHy1.jpg",
-		      "https://image.tmdb.org/t/p/original/qLE8yuieTDN93WNJRmFSAEJChOg.jpg",
-		      "https://image.tmdb.org/t/p/original/vNuHqmOJRQXY0PBd887DklSDlBP.jpg",
-		      "https://image.tmdb.org/t/p/original/uUCc62M0I3lpZy0SiydbBmUIpNi.jpg",
-		      "https://image.tmdb.org/t/p/original/2wPJIFrBhzzAP8oHDOlShMkERH6.jpg",
-		      "https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"
-    	]
+  		"author": "Mitch Hedberg"
   	},
   		{
   		"jokeId": "16",
   		"title": "Mitch Hedberg Golf",
   		"content": "This shirt is dry clean only, which means its dirty",
-  		"author": "Mitch Hedberg",
-	    "isSafeForWork": true,
-	    "isRhetorical": true,
-	    "isActive": false,
-	    "backdrops": [
-		      "https://image.tmdb.org/t/p/original/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
-		      "https://image.tmdb.org/t/p/original/faXT8V80JRhnArTAeYXz0Eutpv9.jpg",
-		      "https://image.tmdb.org/t/p/original/pdrlEaknhta2wvE2dcD8XDEbAI4.jpg",
-		      "https://image.tmdb.org/t/p/original/tGwO4xcBjhXC0p5qlkw37TrH6S6.jpg",
-		      "https://image.tmdb.org/t/p/original/cP8YNG3XUeBmO8Jk7Skzq3vwHy1.jpg",
-		      "https://image.tmdb.org/t/p/original/qLE8yuieTDN93WNJRmFSAEJChOg.jpg",
-		      "https://image.tmdb.org/t/p/original/vNuHqmOJRQXY0PBd887DklSDlBP.jpg",
-		      "https://image.tmdb.org/t/p/original/uUCc62M0I3lpZy0SiydbBmUIpNi.jpg",
-		      "https://image.tmdb.org/t/p/original/2wPJIFrBhzzAP8oHDOlShMkERH6.jpg",
-		      "https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"
-    	]
+  		"author": "Mitch Hedberg"
   	}
 ]
